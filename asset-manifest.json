@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/C26ColorPicker/static/css/main.9c55dea7.css",
+    "main.js": "/C26ColorPicker/static/js/main.ddaa3d58.js",
+    "static/js/787.a6226227.chunk.js": "/C26ColorPicker/static/js/787.a6226227.chunk.js",
+    "index.html": "/C26ColorPicker/index.html",
+    "main.9c55dea7.css.map": "/C26ColorPicker/static/css/main.9c55dea7.css.map",
+    "main.ddaa3d58.js.map": "/C26ColorPicker/static/js/main.ddaa3d58.js.map",
+    "787.a6226227.chunk.js.map": "/C26ColorPicker/static/js/787.a6226227.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c55dea7.css",
+    "static/js/main.ddaa3d58.js"
+  ]
+}
